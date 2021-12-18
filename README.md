@@ -1,4 +1,4 @@
-# Action-black GitHub Action
+# Action-black-py-jupyter GitHub Action
 
 [![Test](https://github.com/rickstaa/action-black/workflows/Test/badge.svg)](https://github.com/rickstaa/action-black/actions?query=workflow%3ATest)
 [![release](https://github.com/rickstaa/action-black/workflows/release/badge.svg)](https://github.com/rickstaa/action-black/actions?query=workflow%3Arelease)
